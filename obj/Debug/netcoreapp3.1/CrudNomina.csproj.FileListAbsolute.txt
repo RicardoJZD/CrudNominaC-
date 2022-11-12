@@ -1,0 +1,14 @@
+C:\Users\rjzabaletad\source\repos\CrudNomina\bin\Debug\netcoreapp3.1\CrudNomina.exe
+C:\Users\rjzabaletad\source\repos\CrudNomina\bin\Debug\netcoreapp3.1\CrudNomina.deps.json
+C:\Users\rjzabaletad\source\repos\CrudNomina\bin\Debug\netcoreapp3.1\CrudNomina.runtimeconfig.json
+C:\Users\rjzabaletad\source\repos\CrudNomina\bin\Debug\netcoreapp3.1\CrudNomina.runtimeconfig.dev.json
+C:\Users\rjzabaletad\source\repos\CrudNomina\bin\Debug\netcoreapp3.1\CrudNomina.dll
+C:\Users\rjzabaletad\source\repos\CrudNomina\bin\Debug\netcoreapp3.1\CrudNomina.pdb
+C:\Users\rjzabaletad\source\repos\CrudNomina\obj\Debug\netcoreapp3.1\CrudNomina.csproj.AssemblyReference.cache
+C:\Users\rjzabaletad\source\repos\CrudNomina\obj\Debug\netcoreapp3.1\CrudNomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjzabaletad\source\repos\CrudNomina\obj\Debug\netcoreapp3.1\CrudNomina.AssemblyInfoInputs.cache
+C:\Users\rjzabaletad\source\repos\CrudNomina\obj\Debug\netcoreapp3.1\CrudNomina.AssemblyInfo.cs
+C:\Users\rjzabaletad\source\repos\CrudNomina\obj\Debug\netcoreapp3.1\CrudNomina.csproj.CoreCompileInputs.cache
+C:\Users\rjzabaletad\source\repos\CrudNomina\obj\Debug\netcoreapp3.1\CrudNomina.dll
+C:\Users\rjzabaletad\source\repos\CrudNomina\obj\Debug\netcoreapp3.1\CrudNomina.pdb
+C:\Users\rjzabaletad\source\repos\CrudNomina\obj\Debug\netcoreapp3.1\CrudNomina.genruntimeconfig.cache
